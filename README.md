@@ -1,5 +1,3 @@
 # Anderson Medeiros
 
 ### Aspirante desenvolvedor front end
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andersonmedeiros)](https://github.com/anderson-medeiros/github-readme-stats)
